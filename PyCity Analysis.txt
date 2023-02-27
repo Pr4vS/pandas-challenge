@@ -1,4 +1,3 @@
-# pandas-challenge
 PyCity Schools Analysis
 
 To receive all points, the written report presents a cohesive written analysis that:
